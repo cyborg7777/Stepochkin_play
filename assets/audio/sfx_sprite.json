@@ -1,0 +1,79 @@
+{
+  "resources": [
+    "sfx_sprite.ogg",
+    "sfx_sprite.mp3",
+    "sfx_sprite.wav"
+  ],
+  "spritemap": {
+    "sfx_punch": {
+      "start": 0.05,
+      "end": 0.17,
+      "loop": false
+    },
+    "sfx_punch_1": {
+      "start": 0.22,
+      "end": 0.33,
+      "loop": false
+    },
+    "sfx_punch_2": {
+      "start": 0.38,
+      "end": 0.47,
+      "loop": false
+    },
+    "sfx_punch_3": {
+      "start": 0.52,
+      "end": 0.65,
+      "loop": false
+    },
+    "sfx_punch_4": {
+      "start": 0.7,
+      "end": 0.8,
+      "loop": false
+    },
+    "sfx_click": {
+      "start": 0.85,
+      "end": 0.88,
+      "loop": false
+    },
+    "sfx_upgrade": {
+      "start": 0.93,
+      "end": 1.24,
+      "loop": false
+    },
+    "sfx_fever": {
+      "start": 1.29,
+      "end": 2.42,
+      "loop": false
+    },
+    "sfx_brick_hit": {
+      "start": 2.47,
+      "end": 2.72,
+      "loop": false
+    },
+    "sfx_brick_shatter": {
+      "start": 2.77,
+      "end": 3.22,
+      "loop": false
+    },
+    "sfx_brick_miss": {
+      "start": 3.27,
+      "end": 3.62,
+      "loop": false
+    },
+    "sfx_chevron": {
+      "start": 3.67,
+      "end": 4.09,
+      "loop": false
+    },
+    "sfx_rank_up": {
+      "start": 4.14,
+      "end": 5.39,
+      "loop": false
+    },
+    "sfx_whistle": {
+      "start": 5.44,
+      "end": 5.99,
+      "loop": false
+    }
+  }
+}
